@@ -1,0 +1,1 @@
+This is an [Obsidian](https://obsidian.md/) vault. To use this, please download Obsidian and then open this folder using that program.

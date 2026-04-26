@@ -39,13 +39,14 @@
             "id": "9c32bba3ffa19e57",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Timeline.base",
-                "viewName": "Table"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Timeline"
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -260,10 +261,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Timeline.base"
+                "file": "README.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Timeline"
+              "title": "File properties for README"
             }
           }
         ],
@@ -287,8 +288,11 @@
   },
   "active": "9c32bba3ffa19e57",
   "lastOpenFiles": [
-    "Notes/Baron Names Nephew Provisional Heir.md",
+    "Pasted image 20260425010810.png",
+    "README.md.md",
+    "README.md",
     "Timeline.base",
+    "Notes/Baron Names Nephew Provisional Heir.md",
     "Notes/Mount Holly Family Tree.md",
     "People/KL.md",
     "Misc/Foreign Language.md",
@@ -316,7 +320,6 @@
     "Photos/Mount Holly Staff.md",
     "Images/Screenshot (98).png",
     "People/Clara Epsen.md",
-    "Pasted image 20260425010810.png",
     "Photos/Walk-in Closet Clara Epsen.md",
     "Images/Screenshot (97).png",
     "Notes/Music Sheets.md",
@@ -324,9 +327,7 @@
     "Photos/Clara & Simon photo.md",
     "Misc/Hundred Bells Tea Room.md",
     "Rooms/Ballroom.md",
-    "Towns/Fenn Aries/Reddington/Trinsdale Lake.md",
     "Photos",
-    "Realms/Fenn Aries.md",
     "Towns/Fenn Aries/Reddington",
     "People/Sinclairs",
     "Books/rentdates/A Sightseer's Guide to Reddington",
