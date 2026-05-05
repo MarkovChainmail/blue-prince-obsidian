@@ -1,5 +1,5 @@
 ---
-date: 1986-11-4
+date: 1986-11-05
 certainty: presumed
 ---
 Performed by a terrorist group named [[RLCF]] or Children of Blackwater

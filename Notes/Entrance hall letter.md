@@ -1,4 +1,4 @@
-Stamp - [[Nuange]]. With a zeppelin. 1818
+Stamp - [[Nuance]]. With a zeppelin. 1818
 
 [[Entrance Hall]]
 

@@ -11,7 +11,7 @@ Spectacular scenery, a historic castle, and a charming underground bazaar reward
 ![[Screenshot (85).png]]
 
 # The Botanical Gardens
-Reddington's most popular attraction and a guaranteed crowd-pleaser, the [[Botanical Gardens]], is loved by both locals and visitors for its [[Ajera|Ajeran]] canopy house and mausoleum, its petal-covered trails, and a mind-boggling variety of flowers. This is the reason springtime is Reddington's busy season.
+Reddington's most popular attraction and a guaranteed crowd-pleaser, the [[Botanical Gardens]], is loved by both locals and visitors for its [[First Era|Ajeran]] canopy house and mausoleum, its petal-covered trails, and a mind-boggling variety of flowers. This is the reason springtime is Reddington's busy season.
 
 Situated just east of town, the Botanical Gardens offer a scenic and captivating tableau of the natural countryside. A cobblestone trail meanders past over 1000 species of tropical plants, each remarkable in its own right, yet even more stunning set against the spectacular backdrop of the Reddington mountains. Allow yourself at least an hour to indulge in this picturesque walk, which concludes at Mainway Station.
 
@@ -38,11 +38,11 @@ At an elevation of 11,220 feet, Mount Holly is the tallest mountain in the Reddi
 
 It's only a few hours from Reddington to get to the trailhead, and you won't need any local guides or special gear if you tackle the trial during the summer season. However, those willing to give this mountain a significant amount of planning and research will be greatly rewarded, whether or not they actually summit.
 
-On the opposite side of the peak, far from the trail, rests the Estate of Mount Holly, nestled between the summit's northern slope and saddly. This 80-acre mountain residence is almost as old as Reddington itself, however, unlike Featherfall Keep, the property has been completely private since the closing of the Mount Holly [[Schoolhouse]] in [[Mt. Holly Schoolhouse closes|66]]. Still, hikers will be able to appreciate the house's unique architecture at a distance from one of the trial's many north-facing overlooks.
+On the opposite side of the peak, far from the trail, rests the Estate of Mount Holly, nestled between the summit's northern slope and saddle. This 80-acre mountain residence is almost as old as Reddington itself, however, unlike Featherfall Keep, the property has been completely private since the closing of the Mount Holly [[Schoolhouse]] in [[Mt. Holly Schoolhouse closes|66]]. Still, hikers will be able to appreciate the house's unique architecture at a distance from one of the trial's many north-facing overlooks.
 ![[Screenshot (90).png]]
 
 # Mainway Station Bazaar
-For the sentimental tourists wishing to pick up a souvenir to remember their stay, one might try braving the Mainway Station Bazaar. But don't be too hasty. Without proper guidance, the Mainway Sttion can be a dangerous place. Located underground, this unique marketplace was once Reddington's central railway station, in a time when the realm's trains were still in service. Now the turnstiles, footbridge, and platform have been appropriated and turned into a cavern of tents and torches.
+For the sentimental tourists wishing to pick up a souvenir to remember their stay, one might try braving the [[Mainway Station]] Bazaar. But don't be too hasty. Without proper guidance, the Mainway Sttion can be a dangerous place. Located underground, this unique marketplace was once Reddington's central railway station, in a time when the realm's trains were still in service. Now the turnstiles, footbridge, and platform have been appropriated and turned into a cavern of tents and torches.
 
 Whether you are bargain hunting, looking for adventure, or finding a memento the commemorate your visit, the Mainway Station Bazaar will be a worthy conclusion to your sightseeing adventure in Reddington.
 ![[Screenshot (91).png]]

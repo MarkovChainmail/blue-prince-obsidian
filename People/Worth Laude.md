@@ -1,0 +1,1 @@
+A blackmailer. Likely the son of the Foreman from the [[Foreman's Log 102|Foreman logs]].

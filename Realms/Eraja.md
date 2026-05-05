@@ -1,3 +1,4 @@
 ---
 banner: purple
+core: hourglass
 ---
